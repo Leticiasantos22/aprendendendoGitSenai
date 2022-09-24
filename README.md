@@ -3,18 +3,17 @@ Neste respositório aprenderei a utilizar os comandos básicos do github, assim 
 
 ## Comandos básicos utilizado no git 
 ## Repositório remoto 
-- Item 1
-- Item 2
-- Item 3
+*git remote*  ***permite criar, ver e excluir***
+*git branch serve para* ***adicionar um novo recurso ou corrigir um erro***
 
 ### Repositório local 
-- Item 1 
-- Item 2
-- Item 3
+*git init* ***para inicialização***
+*git pull é* ***utilizado para baixar um arquivo***
+*git push é*  ***utitilizado para enviar um arquivo***
+ 
 
 ### Branchs 
-- Item 1 
-- Item 2
-- Item 3
+*git comimit* -m **inicialização com o README**
+
 
  Site para consultar os comandos do markdown:[mardown Guide](https://www.markdownguide.org/basic-syntax/)
