@@ -17,3 +17,8 @@ Neste respositório aprenderei a utilizar os comandos básicos do github, assim 
 
 
  Site para consultar os comandos do markdown:[mardown Guide](https://www.markdownguide.org/basic-syntax/)
+
+
+ # YOU MY FRIENDS #
+ # FALE COMIGO RAPOSO NÃO PEGUE #
+ # ONDE TA O RIO #
